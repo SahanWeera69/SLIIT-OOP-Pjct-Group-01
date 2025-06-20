@@ -1,4 +1,5 @@
-<img src="![FastTrack logo - Transparent](https://github.com/user-attachments/assets/001d30ed-10f9-46f9-87d8-00bfeb805482")">
+![FastTrack logo - Transparent](https://github.com/user-attachments/assets/316aa6cf-f905-44d8-a645-9e6f82a73586)
+
 **<h1>FastTrack Logistics Administrative Software</h1>**
 
 **FastTrack Logistics** is a comprehensive administrative software designed to optimize and simplify every aspect of your logistics operations. From shipment management and delivery tracking to dispatch scheduling and route optimization, FastTrack Logistics provides the tools you need to gain **real-time visibility, improve efficiency, and reduce costs**.
